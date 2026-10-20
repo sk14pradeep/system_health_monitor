@@ -19,3 +19,4 @@ A Linux shell script that checks the health of your system and shows warnings wh
 
 ## Author
 sk14pradeep
+- Runs on any Linux distribution
